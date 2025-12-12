@@ -1,0 +1,47 @@
+{
+    "total_cargo_revenue": {
+        "label": "Total Cargo Revenue (Millions)",
+        "value": "$882",
+        "unit": "USD",
+        "source": "annual_report_2024"
+    },
+    "total_operating_revenue": {
+        "label": "Total Operating Revenue (Millions)",
+        "value": "$61,643",
+        "unit": "USD",
+        "source": "annual_report_2024"
+    },
+    "revenue_growth_yoy": {
+        "label": "YoY Operational Revenue Growth",
+        "value": "6%",
+        "unit": "",
+        "source": "annual_report_2024"
+    },
+    "num_segments": {
+        "label": "Number of Reportable Segments",
+        "value": 2,
+        "unit": "",
+        "source": "annual_report_2024"
+    },
+    "total_customer_served": {
+        "label": "Total Served Customers (Millions)",
+        "value": 200,
+        "unit": "",
+        "source": "annual_report_2024"
+    },
+    "total_fuel_saving": {
+        "label": "Total Saved Fuel (Millions)",
+        "value": 23,
+        "unit": "Gallons",
+        "source": "esg_report_2024"
+    },
+    "esg_targets": {
+        "label": "Key ESG Targets",
+        "value": [
+            "Net-zero emissions by 2050",
+            "Reduce Scope 1 & 2 jet fuel GHG emissions of 45% per revenue ton kilometer by 2035 from a 2019 baseline"
+        ],
+        "unit": "list",
+        "source": "esg_report_2024"
+    }
+}
